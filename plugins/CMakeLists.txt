@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.5)
+cmake_minimum_required(VERSION 3.10)
 project(PluginLoader CXX)
 
 # 1. INTERFACE_INCLUDE_DIRECTORIES 에 소스 디렉토리와 빌드 디렉토리를 자동으로 추가한다.

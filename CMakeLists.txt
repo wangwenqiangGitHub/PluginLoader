@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.5)
+cmake_minimum_required(VERSION 3.10)
 project(PluginLoader CXX)
 
 set(USE_GOOGLE_TEST "Build with Google test options" CACHE BOOL FALSE)
